@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TarSystem</string>
+	<string name="tvTipInfo">打包过程要花费几分钟的时间\n文件保存在/sdcard/tarsystem-*.tgz</string>
+    <string name="btnTarSystem">打包系统</string>
+</resources>
